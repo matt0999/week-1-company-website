@@ -1,1 +1,3 @@
 # week-1-company-website
+This is the homework assignment for my first week of coding boot camp. I was presented with fully finished HTML and CSS files for a website that functioned properly and had no aesthetic errors. The code itself was the problem. 
+The challenge was to clean up the code by reducing the amount of class and id selectors, reorganizing the CSS, fixing hyperlinks, and adding comments that made the backend of the website more user-friendly for anyone looking at this code in the future.SS
